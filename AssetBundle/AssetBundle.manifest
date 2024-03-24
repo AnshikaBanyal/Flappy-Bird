@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3007067052
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mainscrene
+      Dependencies: {}
+    Info_1:
+      Name: start
+      Dependencies: {}
